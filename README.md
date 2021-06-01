@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+I'm Victor Orlunda, fulltime student and a budding software developer based in Port Harcourt, Nigeria 🇳🇬
+
+🔭 My current tech stack include:
+ 
+ - HTML, CSS and JavaScript(ES6+)
+ - Node.js
+ - ExpressJS
+ - MongoDB
+ - Mongoose
+ - Jest/Tape/SuperTest
+
+I'm currently on the lookout for entry backend-focused dev jobs and or (paid) internships to propel myself out of *tutorial purgatory* and improve my skills while learning other worthwhile stuff.
+
+I'm a very hardworking person with a knack for paying attention to details. I'm also pretty fast at learning and picking up new stuff within a relatively short amount of time.
+
+Feel free to browse my pinned repositories as well as my other repositories for some little side projects I've worked on 😃
 <!--
 **dev-opus/dev-opus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
