@@ -11,7 +11,7 @@ I'm Victor Orlunda, fulltime student and a budding software developer based in P
  - Mongoose
  - Jest/Tape/SuperTest
 
-I'm currently on the lookout for entry backend-focused dev jobs and or (paid) internships to propel myself out of *tutorial purgatory* and improve my skills while learning other worthwhile stuff.
+I'm currently on the lookout for entry level backend-focused developer jobs and/or (paid) internships to propel myself out of the infamous *tutorial purgatory* and improve my skills while learning other worthwhile stuff.
 
 I'm a very hardworking person with a knack for paying attention to details. I'm also pretty fast at learning and picking up new stuff within a relatively short amount of time.
 
